@@ -59,6 +59,7 @@ Ansible, тоже.
 ![рисунок11](https://user-images.githubusercontent.com/57321062/200135815-860bf593-8f0d-4200-819a-e70815ebbd9b.png)
 
 Последним действием я проверю работоспособность моего тунеля.
+
 ![рисунок12](https://user-images.githubusercontent.com/57321062/200135823-9882d2b3-a052-4e00-859e-932e268b60c9.png)
 
 ## III - результаты
