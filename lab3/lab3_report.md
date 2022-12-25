@@ -37,7 +37,7 @@ Date of finished: 21.12.2022
 ![10](https://user-images.githubusercontent.com/57321062/209478091-a0cf9a78-cc80-4ad3-9e2b-c4cac4bd9f26.png)
 
 Внутри `Netbox'а` описаны роутеры:
-![11](https://user-images.githubusercontent.com/57321062/209478096-3883084d-241e-46d8-b2ac-ea546174b1cd.png)
+![11](https://user-images.githubusercontent.com/57321062/209478930-45817109-d7be-46db-9bda-1b2b4977ba9a.png)
 
 С виртуальной машины с запущенным `Netbox'ом` получен csv файл с содержанием данных о роутерах. В начале был написан `playbook` для чтения данных и вывода данных (на машине с ansible).
 ![12](https://user-images.githubusercontent.com/57321062/209478098-de29673a-b8a0-4dee-888f-a043df6e63af.png)
@@ -51,17 +51,22 @@ Date of finished: 21.12.2022
 ![16](https://user-images.githubusercontent.com/57321062/209478106-e5992126-9c57-4d11-a09b-ae6257b1c69a.png)
 
 После скрипт изменен, для переноса данных еще и в `netbox`:
-![18](https://user-images.githubusercontent.com/57321062/209478110-e288bcfb-7eab-43b0-9787-b49951809ca7.png)
+![18](https://user-images.githubusercontent.com/57321062/209478901-b50e7705-b9e7-4c7f-9c51-076a6e6dce9b.png)
+
 ![17](https://user-images.githubusercontent.com/57321062/209478111-c050e3a6-abd2-4ebe-8b83-dc0d063bc313.png)
 
 ## III Итоги
 1. Получен опыт работы с `Netbox'ом`
 2. Изменена структура сети, теперь она выглядит следующим образом:
-![19](https://user-images.githubusercontent.com/57321062/209478116-385966ab-1785-4e48-9db7-73145a8716d2.png)
+
+
 3. Получен опыт работы с `ansible` со сбором информации
+![19](https://user-images.githubusercontent.com/57321062/209478892-b1a9c2e4-5006-4d0a-903f-29b6c83c2de7.png)
+
 
 Пинги:
 ![20](https://user-images.githubusercontent.com/57321062/209478122-8afa8190-eccb-4117-b6dc-aa713ff91004.png)
 ![21](https://user-images.githubusercontent.com/57321062/209478124-7f44bfda-2f17-4fa8-b14b-220723338c87.png)
-![22](https://user-images.githubusercontent.com/57321062/209478136-ce5611c1-16fd-4498-a1eb-77d4d8b653cf.png)
+![22](https://user-images.githubusercontent.com/57321062/209478951-62d3d24d-1792-4446-a1d0-af09d2c36da3.png)
+
 
