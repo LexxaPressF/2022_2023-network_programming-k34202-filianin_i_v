@@ -53,7 +53,7 @@ Date of finished: 21.12.2022
 После скрипт изменен, для переноса данных еще и в `netbox`:
 ![18](https://user-images.githubusercontent.com/57321062/209478901-b50e7705-b9e7-4c7f-9c51-076a6e6dce9b.png)
 
-![17](https://user-images.githubusercontent.com/57321062/209478111-c050e3a6-abd2-4ebe-8b83-dc0d063bc313.png)
+![17](https://user-images.githubusercontent.com/57321062/209572432-47f85203-c185-4b7f-9c48-7ef81887a56e.png)
 
 ## III Итоги
 1. Получен опыт работы с `Netbox'ом`
@@ -61,10 +61,10 @@ Date of finished: 21.12.2022
 
 
 3. Получен опыт работы с `ansible` со сбором информации
-![19](https://user-images.githubusercontent.com/57321062/209478892-b1a9c2e4-5006-4d0a-903f-29b6c83c2de7.png)
-
+![19](https://user-images.githubusercontent.com/57321062/209572439-8bd4312e-9db1-493a-b8c3-613f1670829e.png)
 
 Пинги:
+
 ![20](https://user-images.githubusercontent.com/57321062/209478122-8afa8190-eccb-4117-b6dc-aa713ff91004.png)
 ![21](https://user-images.githubusercontent.com/57321062/209478124-7f44bfda-2f17-4fa8-b14b-220723338c87.png)
 ![22](https://user-images.githubusercontent.com/57321062/209478951-62d3d24d-1792-4446-a1d0-af09d2c36da3.png)
