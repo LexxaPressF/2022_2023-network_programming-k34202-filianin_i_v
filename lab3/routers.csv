@@ -1,0 +1,3 @@
+Name,Status,Tenant,Site,Location,Rack,Role,Manufacturer,Type,IP Address,ID,Tenant Group,Platform,Serial number,Asset tag,Region,Site Group,Position (U),Rack face,Airflow,IPv4 Address,IPv6 Address,Cluster,Virtual chassis,VC Position,VC Priority,Comments,Contacts,Tags,Created,Last updated
+R1,Active,,netbox,,,router,MikroTik,RouterOS7,172.27.224.70/24,1,,,CCR1036-12G-4S-EM,,,,,,,172.27.224.70/24,,,,,,,,,2022-12-12 18:45,2022-12-12 20:19
+R2,Active,,netbox,,,router,MikroTik,RouterOS7,172.27.224.71/24,2,,,CCR1036-12G-4S-EM,,,,,,,172.27.224.71/24,,,,,,,,,2022-12-12 18:46,2022-12-12 20:19
