@@ -4,7 +4,7 @@ Course: [Network programming](https://github.com/itmo-ict-faculty/network-progra
 Year: 2022/2023
 Group: K34202
 Author: Malyshev Alexey Andreevich
-Lab: Lab2
+Lab: Lab3
 Date of create: 15.12.2022
 Date of finished: 21.12.2022
 ---
